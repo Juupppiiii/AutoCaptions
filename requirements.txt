@@ -1,0 +1,4 @@
+faster-whisper==1.0.3
+fonttools==4.53.1
+pillow==10.4.0
+pyinstaller==6.10.0
